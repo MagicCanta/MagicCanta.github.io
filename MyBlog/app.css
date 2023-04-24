@@ -1,0 +1,56 @@
+
+body {
+    background-color: #1e1f22;
+    font-size: 15px;
+}
+p{
+    font-size: 2.5em;
+    font-family: 'Montserrat', sans-serif;
+    color: #eae6d8;
+}
+hr {
+    border: 0px solid;
+    height: 1px;
+    background-color: #464646;
+}
+div.centerlogo {
+    width: 312.7px;
+    margin: 15px auto 15px auto;
+}
+p.logo {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0px;
+}
+i.slash {
+    color: #f55139;
+}
+p.sameslashcolor {
+    color: #f55139;
+    font-size: 1.1em;
+    margin-top: -8px;
+}
+div.menuButtonContainer{
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+div.menuButton{
+    border: 1px solid #464646;
+    border-radius: 8px;
+    width: 440px;
+    margin-right: 0.555%;
+    margin-left: 0.555%;
+    height: 293.333;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+img.hover {
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 8px;
+    transition: 0.5s;
+}
+img.hover:hover {
+    opacity: 0.3;
+    transition: 0.5s;
+}
