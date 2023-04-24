@@ -11,7 +11,7 @@ p{
 hr {
     border: 0px solid;
     height: 1px;
-    background-color: #464646;
+    background-color: #34363b;
 }
 div.centerlogo {
     width: 312.7px;
@@ -35,7 +35,7 @@ div.menuButtonContainer{
     margin-top: 25px;
 }
 div.menuButton{
-    border: 1px solid #464646;
+    border: 1px solid #34363b;
     border-radius: 8px;
     width: 450,0005px;
     margin-right: 0.555%;
