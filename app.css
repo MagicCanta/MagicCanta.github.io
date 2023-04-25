@@ -54,3 +54,19 @@ img.hover:hover {
     opacity: 0.3;
     transition: 0.5s;
 }
+p.mainText{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #eae6d8;
+    text-align: center;
+    margin: auto;
+}
+div.mainText{
+    border: 1px solid #34363b;
+    background-color: #34363b;
+    border-radius: 8px;
+    width: 900px;
+    margin: 15px auto;
+    height: 700px;
+    display: block;
+}
