@@ -3,7 +3,7 @@ body {
     font-size: 15px;
 }
 p{
-    font-size: 15px;
+    font-size: 30px;
     font-family: 'Montserrat', sans-serif;
     color: #eae6d8;
 }
@@ -17,7 +17,7 @@ div.centerlogo {
     margin: 15px auto 15px auto;
 }
 p.logo {
-    font-size: 30px;
+    font-size: 37px;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 0px;
 }
@@ -72,7 +72,12 @@ div.mainText{
     background-color: #34363b;
     border-radius: 8px;
     width: 890px;
-    margin: 15px auto;
+    margin: 15px auto 15px auto;
     height: 690px;
     display: block;
+}
+c.mainSubText{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #eae6d8;
 }
