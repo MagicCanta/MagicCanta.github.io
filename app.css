@@ -54,19 +54,14 @@ img.hover:hover {
     opacity: 0.3;
     transition: 0.5s;
 }
-p1{
+.mainText{
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     color: #eae6d8;
-}
-p1.mainText{
-    font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
-    color: #eae6d8;
-    text-align: center;
+    text-align: auto;
     margin: auto;
 }
-div.mainText{
+.textBox{
     border: 1px solid #34363b;
     padding: 10px;
     background-color: #34363b;
@@ -76,7 +71,7 @@ div.mainText{
     height: 690px;
     display: block;
 }
-c.mainSubText{
+.mainSubText{
     font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     color: #eae6d8;
