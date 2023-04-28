@@ -66,7 +66,7 @@ img.hover:hover {
     padding: 10px;
     background-color: #34363b;
     border-radius: 8px;
-    width: 890px;
+    width: 60%;
     margin: 15px auto 15px auto;
     height: 690px;
     display: block;
@@ -75,4 +75,11 @@ img.hover:hover {
     font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     color: #eae6d8;
+}
+.listStyle{
+    list-style-type: none;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #eae6d8;
+
 }
